@@ -1,0 +1,11 @@
+{
+  "$schema": "https://ui.shadcn.com/components.schema.json",
+  "components": [],
+  "framework": "react",
+  "style": "default",
+  "rsc": false,
+  "tailwind": true,
+  "aliases": {
+    "utils": "@/lib/utils"
+  }
+}
